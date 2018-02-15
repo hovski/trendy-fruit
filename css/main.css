@@ -33,3 +33,15 @@ body {
 .persimmon {
   background-color: #e86033;
 }
+
+.content-p h2 {
+  font-family: "Rammetto One", cursive;
+}
+
+.content-y h2 {
+  font-family: "Gravitas One", cursive;
+}
+
+.content-o h2 {
+  font-family: Comfortaa, cursive;
+}
